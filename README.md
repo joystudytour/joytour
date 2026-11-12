@@ -253,3 +253,5 @@ joyapp/
 # ERD
 ![joytourhub_erd.png](./joytourhub_erd.png)
 
+# Developer 
+🧸 🍰 [gomdoricake](https://github.com/gomdoricake)
