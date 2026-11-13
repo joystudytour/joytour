@@ -120,6 +120,7 @@ INBOUND_EVENTCODE = {
     ('GOR', 'GOR'), 
     ('PP', 'PP'), 
     ('PP(PEAK)', 'PP(PEAK)'), 
+    ('MEALTRSF', 'MEALTRSF')
     ('PB', 'PB'), 
     ('PI', 'PI'),
     ('SOV', 'SOV'),
